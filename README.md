@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Zaka
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me by email, zaldebarenz@gmail.com
+<p align="left">
+<a href="https://github.com/mhmdnurf">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!---
 mzakaa12/mzakaa12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
