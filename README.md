@@ -1,8 +1,8 @@
 # Github Statistic
 <p align="left">
 <a href="https://github.com/mhmdnurf">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhmdnurf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhmdnurf&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhmdnurf&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhmdnurf&layout=compact&langs_count=8&theme=vue-dark&count_private=true"/>
 </a>
 </p>
 
