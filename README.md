@@ -2,7 +2,7 @@
 <p align="left">
 <a href="https://github.com/mhmdnurf">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhmdnurf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhmdnurf&langs_count=10&theme=algolia&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhmdnurf&langs_count=7&theme=algolia&count_private=true"/>
 </a>
 </p>
 
